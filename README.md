@@ -1,5 +1,8 @@
 # PACKING LIST APP
 
+## This project uses:
+### React
+
 ## React app for user to fill out travel packing list and complete as they go.
 
 # Overview
